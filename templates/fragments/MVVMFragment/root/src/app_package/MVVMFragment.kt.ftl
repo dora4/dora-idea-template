@@ -5,7 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
 
-import com.lwh.jackknife.BaseFragment
+import dora.BaseFragment
 
 class ${fragmentClass} : BaseFragment<>() {
 

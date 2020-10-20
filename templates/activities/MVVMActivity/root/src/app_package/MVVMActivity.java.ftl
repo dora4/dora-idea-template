@@ -1,7 +1,7 @@
 package ${packageName};
 
 import android.os.Bundle;
-import com.lwh.jackknife.BaseActivity;
+import dora.BaseActivity;
 
 public class ${activityClass} extends BaseActivity<> {
 
@@ -14,6 +14,6 @@ public class ${activityClass} extends BaseActivity<> {
 
     @Override
     public void initData(Bundle savedInstanceState) {
-
+    
     }
 }

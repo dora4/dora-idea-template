@@ -1,12 +1,12 @@
-# jackknife-mvvm-templates
-此模板用来创建JackKnife风格的Activity和Fragment，支持Java和Kotlin
+# dora-idea-template
+此模板用来创建Dora风格的Activity和Fragment，支持Java和Kotlin
 
 
 
-请依赖jackknife-mvvm的版本为4.10.1，未使用此版本可能需要改动些许代码
+请依赖dora的版本为1.0.0，未使用此版本可能需要改动些许代码，你也可以更新模板到最新
 
 ```
-implementation 'com.github.JackWHLiu.jackknife:jackknife-mvvm:4.10.1'
+implementation 'com.github.dora4:dora:1.0.0'
 ```
 
 

@@ -1,7 +1,7 @@
 package ${escapeKotlinIdentifiers(packageName)}
 
 import android.os.Bundle
-import com.lwh.jackknife.BaseActivity
+import dora.BaseActivity
 
 class ${activityClass} : BaseActivity<>() {
 

@@ -3,7 +3,7 @@
 <recipe>
     <#include "../common/recipe_manifest.xml.ftl" />
     <@kt.addAllKotlinDependencies />
-    <dependency mavenUrl="com.github.JackWHLiu.jackknife:jackknife-mvvm:4.10.0" />
+    <dependency mavenUrl="com.github.dora4:dora:1.0.0" />
 
 <#if generateLayout || (includeCppSupport!false)>
 <instantiate from="root/res/layout/activity_mvvm.xml"

@@ -1,7 +1,7 @@
 package ${packageName};
 
 import android.os.Bundle;
-import com.lwh.jackknife.BaseFragment;
+import dora.BaseFragment;
 
 public class ${fragmentClass} extends BaseFragment<> {
 
@@ -14,6 +14,6 @@ public class ${fragmentClass} extends BaseFragment<> {
 
     @Override
     public void initData(Bundle savedInstanceState) {
-
+    
     }
 }

@@ -1,4 +1,4 @@
-# dora-idea-template
+# Android Studio开发模板（Android Studio<=4.0）
 此模板用来创建Dora风格的Activity和Fragment，支持Java和Kotlin
 
 
